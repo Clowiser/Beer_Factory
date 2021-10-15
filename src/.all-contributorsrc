@@ -1,0 +1,219 @@
+{
+  "projectName": "openbrewerydb",
+  "projectOwner": "openbrewerydb",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": true,
+  "commitConvention": "gitmoji",
+  "contributors": [
+    {
+      "login": "mikeputnam",
+      "name": "Mike Putnam",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/213371?v=4",
+      "profile": "https://theputnams.net/mike/",
+      "contributions": [
+        "data"
+      ]
+    },
+    {
+      "login": "AndrewBarber",
+      "name": "Andrew A. Barber",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/135927?v=4",
+      "profile": "https://andrewbarber.me/",
+      "contributions": [
+        "data"
+      ]
+    },
+    {
+      "login": "jallend1",
+      "name": "Jason Allen",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/39307371?v=4",
+      "profile": "http://www.therearefourmics.com/",
+      "contributions": [
+        "data"
+      ]
+    },
+    {
+      "login": "Juicob",
+      "name": "Juicob",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/68080175?v=4",
+      "profile": "https://github.com/Juicob",
+      "contributions": [
+        "data"
+      ]
+    },
+    {
+      "login": "wkarney",
+      "name": "Will Karnasiewicz",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/35663282?v=4",
+      "profile": "https://github.com/wkarney",
+      "contributions": [
+        "data"
+      ]
+    },
+    {
+      "login": "dvavs",
+      "name": "Dylan T. Vavra",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/49594473?v=4",
+      "profile": "https://dvavs.github.io/",
+      "contributions": [
+        "data"
+      ]
+    },
+    {
+      "login": "amadisonm1209",
+      "name": "Madison Martinez",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/44384309?v=4",
+      "profile": "https://github.com/amadisonm1209",
+      "contributions": [
+        "data"
+      ]
+    },
+    {
+      "login": "danieleremchuk",
+      "name": "Daniel Eremchuk",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/50344935?v=4",
+      "profile": "https://github.com/danieleremchuk",
+      "contributions": [
+        "data"
+      ]
+    },
+    {
+      "login": "alexchong",
+      "name": "Alex Chong",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/18007017?v=4",
+      "profile": "https://github.com/alexchong",
+      "contributions": [
+        "data"
+      ]
+    },
+    {
+      "login": "MStewGT",
+      "name": "Matt S",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/19848610?v=4",
+      "profile": "https://www.jackofalladmins.com/",
+      "contributions": [
+        "data"
+      ]
+    },
+    {
+      "login": "srusher",
+      "name": "Samuel Rusher",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/55074718?v=4",
+      "profile": "https://www.linkedin.com/in/samuel-rusher/",
+      "contributions": [
+        "data"
+      ]
+    },
+    {
+      "login": "EACaraway",
+      "name": "Evan Caraway",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/71463301?v=4",
+      "profile": "https://github.com/EACaraway",
+      "contributions": [
+        "data"
+      ]
+    },
+    {
+      "login": "tylerkkp",
+      "name": "Tyler K Kuromiya Parker",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/30785626?v=4",
+      "profile": "https://github.com/tylerkkp",
+      "contributions": [
+        "data"
+      ]
+    },
+    {
+      "login": "kendellmendoza",
+      "name": "kendellmendoza",
+      "avatar_url": "https://avatars.githubusercontent.com/u/32558172?v=4",
+      "profile": "https://github.com/kendellmendoza",
+      "contributions": [
+        "data"
+      ]
+    },
+    {
+      "login": "Johnnyk737",
+      "name": "Johnnyk737",
+      "avatar_url": "https://avatars.githubusercontent.com/u/20580717?v=4",
+      "profile": "https://github.com/Johnnyk737",
+      "contributions": [
+        "data"
+      ]
+    },
+    {
+      "login": "jameshschuler",
+      "name": "James Schuler",
+      "avatar_url": "https://avatars.githubusercontent.com/u/41769529?v=4",
+      "profile": "https://github.com/jameshschuler",
+      "contributions": [
+        "data"
+      ]
+    },
+    {
+      "login": "cleif",
+      "name": "Creighton Leif",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6209424?v=4",
+      "profile": "https://github.com/cleif",
+      "contributions": [
+        "data"
+      ]
+    },
+    {
+      "login": "vitaly-t",
+      "name": "Vitaly Tomilov",
+      "avatar_url": "https://avatars.githubusercontent.com/u/5108906?v=4",
+      "profile": "https://github.com/vitaly-t",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "kylescudder",
+      "name": "Kyle Scudder",
+      "avatar_url": "https://avatars.githubusercontent.com/u/74150974?v=4",
+      "profile": "https://github.com/kylescudder",
+      "contributions": [
+        "data"
+      ]
+    },
+    {
+      "login": "chrisjm",
+      "name": "Chris Mears",
+      "avatar_url": "https://avatars.githubusercontent.com/u/96110?v=4",
+      "profile": "https://chrisjmears.com/",
+      "contributions": [
+        "question",
+        "code",
+        "data",
+        "maintenance",
+        "projectManagement",
+        "tool",
+        "tutorial"
+      ]
+    },
+    {
+      "login": "donkeyslaps",
+      "name": "donkeyslaps",
+      "avatar_url": "https://avatars.githubusercontent.com/u/91644699?v=4",
+      "profile": "https://github.com/donkeyslaps",
+      "contributions": [
+        "data"
+      ]
+    },
+    {
+      "login": "cipherwizard9",
+      "name": "Pranav Davar",
+      "avatar_url": "https://avatars.githubusercontent.com/u/30888879?v=4",
+      "profile": "https://deciphermiddleware.blogspot.com/",
+      "contributions": [
+        "tool"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7
+}
